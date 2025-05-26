@@ -1,3 +1,4 @@
 subir de local a GitHub
 
-nota nueva
+RPG: Modificación del fichero desde
+github.
